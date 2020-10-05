@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\homework copy\Homework01.TodoApp\Homework01.TodoApp.DataAccess\bin\Debug\netstandard2.0\Homework01.TodoApp.DataAccess.deps.json
+C:\Users\User\Desktop\homework copy\Homework01.TodoApp\Homework01.TodoApp.DataAccess\bin\Debug\netstandard2.0\Homework01.TodoApp.DataAccess.dll
+C:\Users\User\Desktop\homework copy\Homework01.TodoApp\Homework01.TodoApp.DataAccess\bin\Debug\netstandard2.0\Homework01.TodoApp.DataAccess.pdb
+C:\Users\User\Desktop\homework copy\Homework01.TodoApp\Homework01.TodoApp.DataAccess\bin\Debug\netstandard2.0\Homework01.TodoApp.DataModels.dll
+C:\Users\User\Desktop\homework copy\Homework01.TodoApp\Homework01.TodoApp.DataAccess\bin\Debug\netstandard2.0\Homework01.TodoApp.DataModels.pdb
+C:\Users\User\Desktop\homework copy\Homework01.TodoApp\Homework01.TodoApp.DataAccess\obj\Debug\netstandard2.0\Homework01.TodoApp.DataAccess.csprojAssemblyReference.cache
+C:\Users\User\Desktop\homework copy\Homework01.TodoApp\Homework01.TodoApp.DataAccess\obj\Debug\netstandard2.0\Homework01.TodoApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\homework copy\Homework01.TodoApp\Homework01.TodoApp.DataAccess\obj\Debug\netstandard2.0\Homework01.TodoApp.DataAccess.AssemblyInfo.cs
+C:\Users\User\Desktop\homework copy\Homework01.TodoApp\Homework01.TodoApp.DataAccess\obj\Debug\netstandard2.0\Homework01.TodoApp.DataAccess.csproj.CopyComplete
+C:\Users\User\Desktop\homework copy\Homework01.TodoApp\Homework01.TodoApp.DataAccess\obj\Debug\netstandard2.0\Homework01.TodoApp.DataAccess.dll
+C:\Users\User\Desktop\homework copy\Homework01.TodoApp\Homework01.TodoApp.DataAccess\obj\Debug\netstandard2.0\Homework01.TodoApp.DataAccess.pdb

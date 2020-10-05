@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\homework copy\Homework01.TodoApp\Homework01.TodoApp.DataModels\bin\Debug\netstandard2.0\Homework01.TodoApp.DataModels.deps.json
+C:\Users\User\Desktop\homework copy\Homework01.TodoApp\Homework01.TodoApp.DataModels\bin\Debug\netstandard2.0\Homework01.TodoApp.DataModels.dll
+C:\Users\User\Desktop\homework copy\Homework01.TodoApp\Homework01.TodoApp.DataModels\obj\Debug\netstandard2.0\Homework01.TodoApp.DataModels.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\homework copy\Homework01.TodoApp\Homework01.TodoApp.DataModels\obj\Debug\netstandard2.0\Homework01.TodoApp.DataModels.AssemblyInfo.cs
+C:\Users\User\Desktop\homework copy\Homework01.TodoApp\Homework01.TodoApp.DataModels\bin\Debug\netstandard2.0\Homework01.TodoApp.DataModels.pdb
+C:\Users\User\Desktop\homework copy\Homework01.TodoApp\Homework01.TodoApp.DataModels\obj\Debug\netstandard2.0\Homework01.TodoApp.DataModels.dll
+C:\Users\User\Desktop\homework copy\Homework01.TodoApp\Homework01.TodoApp.DataModels\obj\Debug\netstandard2.0\Homework01.TodoApp.DataModels.pdb
+C:\Users\User\Desktop\homework copy\Homework01.TodoApp\Homework01.TodoApp.DataModels\obj\Debug\netstandard2.0\Homework01.TodoApp.DataModels.csprojAssemblyReference.cache
