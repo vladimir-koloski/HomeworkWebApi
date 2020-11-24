@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.DataModels\bin\Debug\netstandard2.0\CollegeApp.DataModels.deps.json
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.DataModels\bin\Debug\netstandard2.0\CollegeApp.DataModels.dll
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.DataModels\obj\Debug\netstandard2.0\CollegeApp.DataModels.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.DataModels\obj\Debug\netstandard2.0\CollegeApp.DataModels.AssemblyInfo.cs
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.DataModels\bin\Debug\netstandard2.0\CollegeApp.DataModels.pdb
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.DataModels\obj\Debug\netstandard2.0\CollegeApp.DataModels.csprojAssemblyReference.cache
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.DataModels\obj\Debug\netstandard2.0\CollegeApp.DataModels.dll
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.DataModels\obj\Debug\netstandard2.0\CollegeApp.DataModels.pdb

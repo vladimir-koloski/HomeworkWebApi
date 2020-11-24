@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.Models\bin\Debug\netstandard2.0\CollegeApp.Models.deps.json
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.Models\bin\Debug\netstandard2.0\CollegeApp.Models.dll
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.Models\bin\Debug\netstandard2.0\CollegeApp.Models.pdb
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.Models\obj\Debug\netstandard2.0\CollegeApp.Models.csprojAssemblyReference.cache
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.Models\obj\Debug\netstandard2.0\CollegeApp.Models.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.Models\obj\Debug\netstandard2.0\CollegeApp.Models.AssemblyInfo.cs
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.Models\obj\Debug\netstandard2.0\CollegeApp.Models.dll
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.Models\obj\Debug\netstandard2.0\CollegeApp.Models.pdb
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.Models\bin\Debug\netstandard2.0\CollegeApp.DataModels.dll
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.Models\bin\Debug\netstandard2.0\CollegeApp.DataModels.pdb
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.Models\obj\Debug\netstandard2.0\CollegeApp.Models.csproj.CopyComplete

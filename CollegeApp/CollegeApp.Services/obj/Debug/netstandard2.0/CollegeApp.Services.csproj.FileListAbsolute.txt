@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.Services\bin\Debug\netstandard2.0\CollegeApp.Services.deps.json
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.Services\bin\Debug\netstandard2.0\CollegeApp.Services.dll
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.Services\bin\Debug\netstandard2.0\CollegeApp.Services.pdb
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.Services\bin\Debug\netstandard2.0\CollegeApp.DataAccess.dll
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.Services\bin\Debug\netstandard2.0\CollegeApp.DataModels.dll
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.Services\bin\Debug\netstandard2.0\CollegeApp.DataAccess.pdb
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.Services\bin\Debug\netstandard2.0\CollegeApp.DataModels.pdb
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.Services\obj\Debug\netstandard2.0\CollegeApp.Services.csprojAssemblyReference.cache
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.Services\obj\Debug\netstandard2.0\CollegeApp.Services.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.Services\obj\Debug\netstandard2.0\CollegeApp.Services.AssemblyInfo.cs
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.Services\obj\Debug\netstandard2.0\CollegeApp.Services.csproj.CopyComplete
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.Services\obj\Debug\netstandard2.0\CollegeApp.Services.dll
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.Services\obj\Debug\netstandard2.0\CollegeApp.Services.pdb
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.Services\bin\Debug\netstandard2.0\CollegeApp.Models.dll
+C:\Users\User\Desktop\WebApi\CollegeApp\CollegeApp.Services\bin\Debug\netstandard2.0\CollegeApp.Models.pdb
